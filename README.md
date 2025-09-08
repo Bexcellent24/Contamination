@@ -17,7 +17,7 @@ You play as a sewer technician tasked with repairing a maze-like underground sys
 This project was created as part of a **university coursework project**.  
 
 Key focuses included:  
-- **UI Systems** – custom-built Unreal Engine UI for player information and interaction  
+- **AI Systems** – custom-built Unreal Engine AI systems for the monsters, including sensors for sight and hearing to create an engaging experience.
 - **Audio Design** – use of local sound for immersive sewer navigation  
 - **Modular Systems** – flexible inventory and interaction systems built with interfaces  
 - **Animation Systems** – animation blueprints and blend spaces for smooth character behaviour  
